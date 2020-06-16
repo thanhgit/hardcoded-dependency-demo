@@ -6,7 +6,7 @@ This is a demo project about hardcoded dependency
 ### Overview Architecture
 ![](./hardcoded-dependency.png)
 
-### Structure files
+### File structure
 ```bash
 .
 ├── authController
