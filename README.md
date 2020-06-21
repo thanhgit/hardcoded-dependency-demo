@@ -3,6 +3,12 @@
 ```
 This is a demo project about hardcoded dependency
 ```
+
+### Quickly
+```text
+$ npm start
+```
+
 ### Overview Architecture
 ![](./hardcoded-dependency.png)
 
